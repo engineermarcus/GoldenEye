@@ -1,12 +1,6 @@
-# THIS PROJECT IS NO LONGER MAINTAINED
+
 
 # GoldenEye
-
-GoldenEye is a Python 3 app for SECURITY TESTING PURPOSES ONLY!
-
-GoldenEye is an HTTP DoS Test Tool.
-
-Attack Vector exploited: HTTP Keep Alive + NoCache
 
 ## Usage
 
@@ -40,6 +34,3 @@ Attack Vector exploited: HTTP Keep Alive + NoCache
 
 ## License
 This software is distributed under the GNU General Public License version 3 (GPLv3)
-
-## LEGAL NOTICE
-THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
