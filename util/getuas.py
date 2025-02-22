@@ -29,3 +29,5 @@ for ua in uas:
     ua_string = ua.get_text()
     ua_string = ua_string.strip(' \t\n\r')
     print(ua_string)
+
+#this is just the beginning
